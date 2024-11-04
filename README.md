@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, Privet, Hallo, Ahoj!
+## My name is Anton and I live in Prague, CZ
+
+Currently I work as OEM Technology Specialist in ExxonMobil
 
 <!--
 **gorskant/gorskant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

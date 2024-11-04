@@ -1,6 +1,6 @@
 ## Hi, Privet, Hallo, Ahoj!
-## My name is Anton and I live in Prague, CZ
 
+My name is Anton and I live in Prague, CZ
 Currently I work as OEM Technology Specialist in ExxonMobil
 
 <!--

@@ -1,6 +1,6 @@
 #### Hi, Privet, Hallo, Ahoj!
 ---
-### My name is Anton.
+### My name is Anton.  
 I am mechanical engineer with a huge interest in data analysis. Based in Prague, CZ.
 
 ---
